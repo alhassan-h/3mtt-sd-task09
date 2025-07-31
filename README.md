@@ -243,7 +243,6 @@ npm start
 | Working Express.js server               | Yes       |
 | PostgreSQL database connection          | Yes       |
 | CRUD API endpoints implemented          | Yes       |
-| UUIDs used instead of SERIAL            | Yes       |
 | Basic error handling                    | Yes       |
 | Testable with Postman or similar        | Yes       |
 | Instructions and documentation included | Yes       |
