@@ -250,5 +250,5 @@ npm start
 ---
 
 # Author
-Built with ❤️ by [Hassan Alhassan]
+Built with ❤️ by Hassan Alhassan
 GitHub: github.com/alhassan-h
