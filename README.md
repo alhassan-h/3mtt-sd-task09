@@ -45,9 +45,12 @@ CREATE TABLE users (
 task09/
 ├── controllers/
 │   └── userController.js
+├── db/
+│   ├── connection.js
+│   ├── schema.js
+│   └── seeder.js
 ├── routes/
 │   └── userRoutes.js
-├── db.js
 ├── index.js
 ├── .env
 ├── package.json
