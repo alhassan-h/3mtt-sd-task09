@@ -1,6 +1,6 @@
 // controllers/userController.js
 
-import pool from '../db/connection.js';
+import pool from './connection.js';
 import { v4 as uuidv4 } from 'uuid';
 
 // GET /users

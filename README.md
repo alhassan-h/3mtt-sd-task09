@@ -42,19 +42,17 @@ CREATE TABLE users (
 ---
 
 # Project Structure
-task09/
-├── controllers/
-│   └── userController.js
-├── db/
-│   ├── connection.js
-│   ├── schema.js
-│   └── seeder.js
-├── routes/
-│   └── userRoutes.js
-├── index.js
+task09-file-restructuring/
+├── connection.js
 ├── .env
+├── index.js
+├── package-lock.json
 ├── package.json
-└── README.md
+├── README.md
+├── schema.js
+├── seeder.js
+├── userController.js
+└── userRoutes.js
 
 ---
 

@@ -1,7 +1,7 @@
 // index.js
 
 import express from 'express';
-import userRoutes from './routes/userRoutes.js';
+import userRoutes from './userRoutes.js';
 
 const app = express();
 app.use(express.json());
